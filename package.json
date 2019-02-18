@@ -4,13 +4,15 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://justinhartzog.github.io/Techdegree-Project-6",
   "dependencies": {
     "express": "^4.16.4",
+    "gh-pages": "^2.0.1",
     "pug": "^2.0.3"
   }
 }

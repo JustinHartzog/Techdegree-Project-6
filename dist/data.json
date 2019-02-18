@@ -30,7 +30,7 @@
         {
             "id":"3",
             "project_name":"Phrase Hunter",
-            "description": "Fun game where you need to guess the hidden movie phrase, after 5 wrong attemps the game ends. Project built entirely with HTML CSS and vanilla JS (not mobile responsive).",
+            "description": "Fun game where you need to guess the hidden phrase, after 5 wrong attemps the game ends. Project built entirely with HTML CSS and JS.",
             "technologies": ["HMTL", "CSS", "JS"],
             "live_link": "https://justinhartzog.github.io/Techdegree-Project-4/",
             "github_link": "https://github.com/JustinHartzog/Techdegree-Project-4",
@@ -44,6 +44,15 @@
             "live_link": "https://justinhartzog.github.io/Techdegree-Project-5/",
             "github_link": "https://github.com/JustinHartzog/Techdegree-Project-5",
             "image_urls": ["/static/images/pro5.0.jpg", "/static/images/pro5.1.jpg", "/static/images/pro5.2.jpg"]
+        },
+        {
+            "id":"5",
+            "project_name":"React Gallery App",
+            "description": "React app that pulls images from the Flickr API and loads them to the page with 3 preset search buttons and an included search bar for looking up images",
+            "technologies": ["React", "Fetch API", "JS", "CSS", "HTML"],
+            "live_link": "https://justinhartzog.github.io/Techdegree-Project-7/",
+            "github_link": "https://github.com/JustinHartzog/Techdegree-Project-7",
+            "image_urls": ["/static/images/pro6.0.jpg", "/static/images/pro6.1.jpg", "/static/images/pro6.2.jpg"]
         }
 
     ]
